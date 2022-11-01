@@ -1,0 +1,20 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firsttest.js",
+  "scripts": {
+    
+    "test": "jest"
+  },
+ 
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "selenium-webdriver": "^4.3.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
